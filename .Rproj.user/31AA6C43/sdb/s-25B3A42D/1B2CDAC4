@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# nbu\nsimple nbu currency exchange rate api wrapper \n\ndevtools::install_github(\"andriy-gazin/nbu\")\n",
+    "created" : 1469543727755.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "524964856",
+    "id" : "1B2CDAC4",
+    "lastKnownWriteTime" : 1469543757,
+    "last_content_update" : 1469543757111,
+    "path" : "~/R/nbu/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
