@@ -1,8 +1,8 @@
 {
-    "path" : "~/R/nbu",
+    "path" : "~/R/nbu/R",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]

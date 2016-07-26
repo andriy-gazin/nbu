@@ -1,4 +1,10 @@
-#get exchange rate for all currencies and given date range
+#' get exchange rate for all currencies and given date range
+#'
+#' @param start - date in yyyymmdd format
+#' @param end - date in yyyymmdd format
+#' @return data.frame with exchange rates
+#' @export
+
 get_exchange_rate_date_range <- function(start, end){
   #generate sequence of dates in format YYYYMMDD
   start <- as.Date(start, format = "%Y%m%d")
