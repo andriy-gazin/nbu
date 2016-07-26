@@ -1,0 +1,10 @@
+Package: nbu
+Type: Package
+Title: Gets Currency Exchange Data From NBU API
+Version: 0.1.0
+Author: Andriy Gazin
+Maintainer: Who to complain to <andriy.gazin@gmail.com>
+Depends: jsonlite
+Description: More about what it does (maybe more than one line)
+License: Creative Commons
+LazyData: TRUE
